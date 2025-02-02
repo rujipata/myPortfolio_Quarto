@@ -1,0 +1,10 @@
+---
+title: "Resume"
+---
+
+<iframe
+    width="800"
+    height="800"
+    src="InstructionalDesigner_resume.pdf"
+>
+</iframe>

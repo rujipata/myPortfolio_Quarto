@@ -1,30 +1,44 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 28, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/edTech/index.html",
+    "href": "posts/edTech/index.html",
+    "title": "Educational Technologies",
+    "section": "",
+    "text": "Intro…\n\nTeaching with Geogebra\n\n\nClick HERE for my interactive Geogebra activity I used in the video.\n\n\nTeaching with Desmos\n\n\n\n\n\n\nTeaching with Top Hat\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson."
+  },
+  {
+    "objectID": "posts/captivateShowcase/index.html",
+    "href": "posts/captivateShowcase/index.html",
+    "title": "Interactive Lesson with Adobe Captivate",
+    "section": "",
+    "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pata’s Portfolio",
+    "section": "",
+    "text": "Educational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLearning Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/courseDesign/index.html",
+    "href": "posts/courseDesign/index.html",
+    "title": "Course Design and Assessment Design",
+    "section": "",
+    "text": "Partial-Flipped Class using Class Prep assignments"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

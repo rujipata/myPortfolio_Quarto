@@ -1,10 +1,14 @@
 ---
-title: "Portfolio"
+title: "Pata's Portfolio"
 listing:
-  contents: posts
+  contents: 
+    - posts/edTech
+    - posts/techIntegration
+    - posts/courseDesign
+    - posts/materialsOER
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full

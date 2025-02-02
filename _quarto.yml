@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "myPortfolio_Quarto"
+  title: "Portfolio for Instructional Design Specialist"
   navbar:
     right:
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: envelope-at
+        href: mailto:rujirawatpata@gmail.com
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
 
 

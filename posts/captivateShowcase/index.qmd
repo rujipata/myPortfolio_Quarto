@@ -1,0 +1,12 @@
+---
+title: Interactive Lesson with Adobe Captivate
+---
+
+<!--{{< video https://www.youtube.com/embed/FmNrutwyVnc?si=0oSvb3licrqJvTB2 title='Teaching with Geogebra' width="560" height="315" >}}-->
+
+<!---[link](https://rujipata.github.io/captivateMATH1060M2L3-2-/)--->
+
+Click <a href="https://rujipata.github.io/captivateMATH1060M2L3-2-/" target="_blank">HERE</a> to open the lesson in a new tab. You will see an error message (see bleow). Click 'OK' to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on <a href="https://github.com/rujipata/captivateMATH1060M2L3-2-.git/" target="_blank">GitHub</a> rather than Canvas.
+
+<img src="errorMessageM1060M2L3(2)captivate.png" alt="drawing" width="300"/>
+

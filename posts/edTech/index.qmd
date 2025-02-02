@@ -1,0 +1,25 @@
+---
+title: "Educational Technologies"
+---
+
+<!---<img src="thumbnail.jpg" alt="drawing" width="200"/>--->
+<!---[Teaching with Geogebra](../teachingTechnologies/index.qmd)--->
+Intro...
+
+# Teaching with Geogebra
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FmNrutwyVnc?si=0oSvb3licrqJvTB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Click [HERE](https://www.geogebra.org/m/uab4bca4) for my interactive Geogebra activity I used in the video.
+
+# Teaching with Desmos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJmplzBfuSk?si=8hukI-8rrsyNX1ZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJmplzBfuSk?si=8hukI-8rrsyNX1ZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Teaching with Top Hat
+
+# Interactive Lesson with Adobe Captivate
+
+Click [HERE](../captivateShowcase/index.qmd) to access the lesson.
