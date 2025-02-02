@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/techIntegration/index.html",
+    "href": "posts/techIntegration/index.html",
+    "title": "Technology Integration and Learning Platforms",
+    "section": "",
+    "text": "Note\n\n\n\nSome works on LLM and third-party app integrations.\n\n\n\nQuarto\n\nThis portfolio is developed by Quarto that is an open-source scientific and technical publishing system. With the basic knowledge of Git, this portfolio is published on GitHub at no cost.\nThis portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.\n\n\n\n\nCanvas"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -7,11 +14,25 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/edTech/index.html",
-    "href": "posts/edTech/index.html",
+    "objectID": "posts/edTech0/index.html",
+    "href": "posts/edTech0/index.html",
     "title": "Educational Technologies",
     "section": "",
-    "text": "Intro…\n\nTeaching with Geogebra\n\n\nClick HERE for my interactive Geogebra activity I used in the video.\n\n\nTeaching with Desmos\n\n\n\n\n\n\nTeaching with Top Hat\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson."
+    "text": "Teaching with Geogebra\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
+  },
+  {
+    "objectID": "posts/courseDesign/index.html",
+    "href": "posts/courseDesign/index.html",
+    "title": "Course Design and Assessment Design",
+    "section": "",
+    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nPartially-Flipped Class using Class Prep assignments"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pata’s Portfolio",
+    "section": "",
+    "text": "Learning Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/captivateShowcase/index.html",
@@ -21,18 +42,18 @@
     "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pata’s Portfolio",
+    "objectID": "posts/edTech/index.html",
+    "href": "posts/edTech/index.html",
+    "title": "Educational Technologies",
     "section": "",
-    "text": "Educational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLearning Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\nShowcases of educational technologies in classes.\n\n\n\nTeaching with Geogebra\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe video demonstrates how I use Geogebra while teaching complex subjects and how I made classrooms more interactive.\nClick HERE for my interactive Geogebra activity that I used in the video.\n\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe video demonstrates how I use Desmos Classroom activites to make classrooms more interactive.\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
   },
   {
-    "objectID": "posts/courseDesign/index.html",
-    "href": "posts/courseDesign/index.html",
-    "title": "Course Design and Assessment Design",
+    "objectID": "posts/materialsOER/index.html",
+    "href": "posts/materialsOER/index.html",
+    "title": "Learning Materials",
     "section": "",
-    "text": "Partial-Flipped Class using Class Prep assignments"
+    "text": "Note\n\n\n\nSome Open-Source class materials I developed.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository."
   },
   {
     "objectID": "posts/welcome/index.html",

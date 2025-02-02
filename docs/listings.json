@@ -2,10 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/materialsOER/index.html",
       "/posts/edTech/index.html",
       "/posts/techIntegration/index.html",
-      "/posts/courseDesign/index.html",
-      "/posts/materialsOER/index.html"
+      "/posts/courseDesign/index.html"
     ]
   }
 ]

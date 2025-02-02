@@ -2,10 +2,10 @@
 title: "Pata's Portfolio"
 listing:
   contents: 
+    - posts/materialsOER
     - posts/edTech
     - posts/techIntegration
     - posts/courseDesign
-    - posts/materialsOER
   sort: "date desc"
   type: default
   categories: false

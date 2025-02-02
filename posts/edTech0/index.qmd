@@ -1,32 +1,16 @@
 ---
-title: Educational Technologies
+title: "Educational Technologies"
 ---
-<!---<img src="thumbnail.jpg" alt="drawing" width="200"/>--->
-
-<!---[Teaching with Geogebra](../teachingTechnologies/index.qmd)--->
-<!---demonstrating how I integrated some educational technologies while teaching complex subjects and how I made classrooms and lessons more interactive--->
-
-::: {.callout-note}
-Showcases of educational technologies in classes.
-:::
 
 # Teaching with Geogebra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmNrutwyVnc?si=0oSvb3licrqJvTB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-::: {.callout-note}
-- The video demonstrates how I use [Geogebra](https://www.geogebra.org/) while teaching complex subjects and how I made classrooms more interactive.
-- Click [HERE](https://www.geogebra.org/m/uab4bca4) for my interactive Geogebra activity that I used in the video.
-:::
-
-
 # Teaching with Desmos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJmplzBfuSk?si=8hukI-8rrsyNX1ZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-::: {.callout-note}
-The video demonstrates how I use [Desmos Classroom](https://teacher.desmos.com//) activites to make classrooms more interactive.
-:::
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJmplzBfuSk?si=8hukI-8rrsyNX1ZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Interactive Lesson with Adobe Captivate
 
