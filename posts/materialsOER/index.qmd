@@ -1,5 +1,5 @@
 ---
-title: Learning Materials 
+title: Learning and Teaching Materials 
 ---
 ::: {.callout-note}
 Some Open-Source class materials I developed.
