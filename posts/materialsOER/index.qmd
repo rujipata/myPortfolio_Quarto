@@ -2,9 +2,15 @@
 title: Learning and Teaching Materials 
 ---
 ::: {.callout-note}
-Some Open-Source class materials I developed.
+Some Open-Source class materials I developed and lesson plans.
 :::
 # Calculus Techniques Workbook 
 - This workbook was created in Fall 2020 under Creative Commons License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.
 - You may download the workbook in `pdf` from my GitHub repository at [https://github.com/rujipata/calcTechWorkbook.git](https://github.com/rujipata/calcTechWorkbook.git).  Then, download `main.pdf`. 
 - You may also clone my repository above if you want to work on the book with `LaTex`. Please first read the README file in the repository.
+
+# Lesson Plan for Recitation Leaders
+- [A sample of lesson plans](Recitation01172023.pdf).
+- The lesson plan demonstrates my comprehensive recitation leadership support. I developed detailed lesson plans for multiple recitation sections of a large F2F lecture course, ensuring consistency and quality across sessions led by graduate and undergraduate students. I also provided extra guidance for new instructors, including in-person support during the first two weeks to address questions from both students and recitation leaders.
+
+<!---For a large F2F lecture at USU, there are multiple recitation sections being led by either graduate students or undergrad students under my supervision. To maintain consistency and quality of class materials and information being delivered to students, I provided lesson plans including detailed instructions and advise to my recitation leaders. This sample is quite longer than average since it was for the second recitation meeting with a lot of new information flying around. Some recitation leaders were brand new in teaching and they needed some extra support, supervision and advise. For the first two weeks, I visited all recitation sessions and helped answer any questions either students and recitation leaders might have.--->
