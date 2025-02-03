@@ -1,0 +1,113 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Technology Integration and Learning Platforms\n",
+        "---\n",
+        "\n",
+        ":::{.callout-note}\n",
+        "Some works on LLM and third-party app integrations.\n",
+        ":::\n",
+        "\n",
+        "# Quarto\n",
+        "\n",
+        "- This portfolio is developed by [Quarto](https://quarto.org/) that is an open-source scientific and technical publishing system. With the basic knowledge of `Git`, this portfolio is published on [GitHub](https://github.com/skills/introduction-to-github) at no cost.\n",
+        "- This portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.\n",
+        "\n",
+        "<!---Citations:\n",
+        "[1] https://www.youtube.com/watch?v=xtSFXtDf4cM\n",
+        "[2] https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/quarto-use/\n",
+        "[3] https://quarto.org\n",
+        "[4] https://www.getusefulstuff.com/post/instructional-design-portfolios-how-to-showcase-work-that-matters\n",
+        "--->\n",
+        "\n",
+        "# Canvas"
+      ],
+      "id": "4f4b1b84"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import ipywidgets as widgets\n",
+        "import numpy as np\n",
+        "from matplotlib import pyplot as plt"
+      ],
+      "id": "d871fc38",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "x = np.random.uniform(0, 5, size=100)\n",
+        "epsilon = np.random.normal(size=100)\n",
+        "y = 2*x + epsilon\n",
+        "\n",
+        "def plot_line(m=1):\n",
+        "    plt.scatter(x,y)\n",
+        "    x_values = np.linspace(0, 5, 1000)\n",
+        "    y_values = m*x_values\n",
+        "    plt.plot(x_values, y_values, lw=3, color='black')\n",
+        "    plt.ylim(-1.2, 12.2)\n",
+        "    plt.show()"
+      ],
+      "id": "bc513199",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "slope_slider = widgets.FloatSlider(description='Slope:', min=0.2, max=5, step=0.2, value=1)"
+      ],
+      "id": "2d89417b",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "widgets.interact(plot_line, m=slope_slider);"
+      ],
+      "id": "b2e16d9a",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "from ipyleaflet import Map, Marker, basemaps, basemap_to_tiles\n",
+        "m = Map(\n",
+        "  basemap=basemap_to_tiles(\n",
+        "    basemaps.NASAGIBS.ModisTerraTrueColorCR, \"2017-04-08\"\n",
+        "  ),\n",
+        "  center=(52.204793, 360.121558),\n",
+        "  zoom=4\n",
+        ")\n",
+        "m.add_layer(Marker(location=(52.204793, 360.121558)))\n",
+        "m"
+      ],
+      "id": "f35883f6",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\Pata\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

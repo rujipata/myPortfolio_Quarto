@@ -4,7 +4,7 @@
     "href": "posts/techIntegration/index.html",
     "title": "Technology Integration and Learning Platforms",
     "section": "",
-    "text": "Note\n\n\n\nSome works on LLM and third-party app integrations.\n\n\n\nQuarto\n\nThis portfolio is developed by Quarto that is an open-source scientific and technical publishing system. With the basic knowledge of Git, this portfolio is published on GitHub at no cost.\nThis portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.\n\n\n\n\nCanvas"
+    "text": "Note\n\n\n\nSome works on LLM and third-party app integrations.\n\n\n\nQuarto\n\nThis portfolio is developed by Quarto that is an open-source scientific and technical publishing system. With the basic knowledge of Git, this portfolio is published on GitHub at no cost.\nThis portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.\nClick HERE to see some examples of executable codes on Quarto.\n\n\n\n\nCanvas"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -14,32 +14,11 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/edTech0/index.html",
-    "href": "posts/edTech0/index.html",
-    "title": "Educational Technologies",
+    "objectID": "posts/materialsOER/index.html",
+    "href": "posts/materialsOER/index.html",
+    "title": "Learning and Teaching Materials",
     "section": "",
-    "text": "Teaching with Geogebra\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
-  },
-  {
-    "objectID": "posts/courseDesign/index.html",
-    "href": "posts/courseDesign/index.html",
-    "title": "Course Design and Assessment Design",
-    "section": "",
-    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nPartially-Flipped Class using Class Prep assignments"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pata’s Portfolio",
-    "section": "",
-    "text": "Learning and Teaching Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/captivateShowcase/index.html",
-    "href": "posts/captivateShowcase/index.html",
-    "title": "Interactive Lesson with Adobe Captivate",
-    "section": "",
-    "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
+    "text": "Note\n\n\n\nSome Open-Source class materials I developed.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository."
   },
   {
     "objectID": "posts/edTech/index.html",
@@ -49,11 +28,46 @@
     "text": "Note\n\n\n\nShowcases of educational technologies in classes.\n\n\n\nTeaching with Geogebra\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe video demonstrates how I use Geogebra while teaching complex subjects and how I made classrooms more interactive.\nClick HERE for my interactive Geogebra activity that I used in the video.\n\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe video demonstrates how I use Desmos Classroom activites to make classrooms more interactive.\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
   },
   {
-    "objectID": "posts/materialsOER/index.html",
-    "href": "posts/materialsOER/index.html",
-    "title": "Learning and Teaching Materials",
+    "objectID": "posts/captivateShowcase/index.html",
+    "href": "posts/captivateShowcase/index.html",
+    "title": "Interactive Lesson with Adobe Captivate",
     "section": "",
-    "text": "Note\n\n\n\nSome Open-Source class materials I developed.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository."
+    "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
+  },
+  {
+    "objectID": "earthMapNote.html",
+    "href": "earthMapNote.html",
+    "title": "Notes on Dynamic Earth Map",
+    "section": "",
+    "text": "Note\n\n\n\nThe Dynamic earth map appeared on home page is the output from python execution on Quarto being used to bulid this portfolio. The source code is hiddle on this page but can be found at https://quarto.org/docs/interactive/widgets/jupyter.html"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pata’s Portfolio",
+    "section": "",
+    "text": "Source: See note\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLearning and Teaching Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/courseDesign/index.html",
+    "href": "posts/courseDesign/index.html",
+    "title": "Course Design and Assessment Design",
+    "section": "",
+    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nCourse Design with Transparency in Learning and Teaching\n\nThis syllbus sample and learning outcomes provides clear learning outcomes and expectations for student to be success in class.\nThis rubric sample was developed for graders to make the grading process transparency and consistency.\n\n\n\nPartially-Flipped Class using Class Prep assignments"
+  },
+  {
+    "objectID": "posts/edTech0/index.html",
+    "href": "posts/edTech0/index.html",
+    "title": "Educational Technologies",
+    "section": "",
+    "text": "Teaching with Geogebra\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
+  },
+  {
+    "objectID": "posts/post-with-code/codingSamples.html",
+    "href": "posts/post-with-code/codingSamples.html",
+    "title": "ipywidgets Samples",
+    "section": "",
+    "text": "Intro to Linear Regression\n\n\n\n\n\n\nNote\n\n\n\nSince runningwidgets.interact from ipywidgets relies on a live Jupyter kernel, the slider below does not interact with the slope of the line in this static html page. Run the code on Jupyter Lab to activate the interactive feature.\n\n\n\nimport ipywidgets as widgets\nimport numpy as np\nfrom matplotlib import pyplot as plt\n\n\nx = np.random.uniform(0, 5, size=100)\nepsilon = np.random.normal(size=100)\ny = 2*x + epsilon\nx_values = np.linspace(0, 5, 1000)\n\n@widgets.interact(m=(0.2,5,0.2))\ndef plot_line(m=1):\n    plt.scatter(x,y)\n    plt.plot(x_values, m*x_values, lw=3, color='black')\n\n    plt.ylim(-1.2, 12.2)\n    plt.show();"
   },
   {
     "objectID": "posts/welcome/index.html",

@@ -5,6 +5,11 @@ title: Course Design and Assessment Design
 Some innovative evidence-based course designs.
 :::
 
+# Course Design with Transparency in Learning and Teaching
+
+- This [syllbus](Syllabus%20for%20Spring%202022%20MATH-1100-001.pdf) sample and [learning outcomes](Learning%20Targets_Outcomes%20for%20Exams_%20Sp20%20MATH%201050%20CBE%20Build.pdf) provides clear learning outcomes and expectations for student to be success in class. 
+- This [rubric sample](CCAP_MATH_1100_for_Graders__shared_.pdf) was developed for graders to make the grading process transparency and consistency.
+
 # Partially-Flipped Class using Class Prep assignments
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JSAnABPj4MA?si=3AAVvsxiG3tm0dDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

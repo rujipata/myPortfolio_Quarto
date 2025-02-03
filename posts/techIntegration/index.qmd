@@ -9,6 +9,7 @@ Some works on LLM and third-party app integrations.
 
 - This portfolio is developed by [Quarto](https://quarto.org/) that is an open-source scientific and technical publishing system. With the basic knowledge of `Git`, this portfolio is published on [GitHub](https://github.com/skills/introduction-to-github) at no cost.
 - This portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.
+- Click [HERE](../post-with-code/codingSamples.qmd) to see some examples of executable codes on Quarto.
 
 <!---Citations:
 [1] https://www.youtube.com/watch?v=xtSFXtDf4cM
@@ -18,3 +19,6 @@ Some works on LLM and third-party app integrations.
 --->
 
 # Canvas
+
+
+

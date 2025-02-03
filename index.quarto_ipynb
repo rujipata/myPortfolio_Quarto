@@ -1,0 +1,66 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Pata's Portfolio\"\n",
+        "listing:\n",
+        "  contents: \n",
+        "    - posts/materialsOER\n",
+        "    - posts/edTech\n",
+        "    - posts/techIntegration\n",
+        "    - posts/courseDesign\n",
+        "  sort: \"date desc\"\n",
+        "  type: default\n",
+        "  categories: false\n",
+        "  sort-ui: false\n",
+        "  filter-ui: false\n",
+        "page-layout: full\n",
+        "title-block-banner: true\n",
+        "---"
+      ],
+      "id": "9d4e4033"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "#| echo: false\n",
+        "\n",
+        "from ipyleaflet import Map, Marker, basemaps, basemap_to_tiles\n",
+        "m = Map(\n",
+        "  basemap=basemap_to_tiles(\n",
+        "    basemaps.NASAGIBS.ModisTerraTrueColorCR, \"2017-04-08\"\n",
+        "  ),\n",
+        "  center=(52.204793, 360.121558),\n",
+        "  zoom=3\n",
+        ")\n",
+        "m.add_layer(Marker(location=(52.204793, 360.121558)))\n",
+        "m"
+      ],
+      "id": "8dcebde5",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "##################################*source*: [https://quarto.org/docs/interactive/widgets/jupyter.html](https://quarto.org/docs/interactive/widgets/jupyter.html) "
+      ],
+      "id": "4dd170ca"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\Pata\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

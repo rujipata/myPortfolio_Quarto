@@ -1,0 +1,6 @@
+---
+title: Notes on Dynamic Earth Map
+---
+::: {.callout-note}
+The Dynamic earth map appeared on [home page](index.qmd) is the output from `python` execution on Quarto being used to bulid this portfolio. The source code is hiddle on this page but can be found at [https://quarto.org/docs/interactive/widgets/jupyter.html](https://quarto.org/docs/interactive/widgets/jupyter.html) 
+:::

@@ -1,0 +1,30 @@
+---
+title: ipywidgets Samples
+---
+
+# Intro to Linear Regression
+
+::: {.callout-note}
+Since running`widgets.interact` from `ipywidgets` relies on a live Jupyter kernel, the slider below does not interact with the slope of the line in this static `html` page. Run the code on `Jupyter Lab` to activate the interactive feature.
+:::
+```{python}
+import ipywidgets as widgets
+import numpy as np
+from matplotlib import pyplot as plt
+```
+
+
+```{python}
+x = np.random.uniform(0, 5, size=100)
+epsilon = np.random.normal(size=100)
+y = 2*x + epsilon
+x_values = np.linspace(0, 5, 1000)
+
+@widgets.interact(m=(0.2,5,0.2))
+def plot_line(m=1):
+    plt.scatter(x,y)
+    plt.plot(x_values, m*x_values, lw=3, color='black')
+
+    plt.ylim(-1.2, 12.2)
+    plt.show();
+```
