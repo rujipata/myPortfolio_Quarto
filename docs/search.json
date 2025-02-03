@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Pata’s Portfolio",
     "section": "",
-    "text": "Learning Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Learning and Teaching Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/captivateShowcase/index.html",
@@ -51,7 +51,7 @@
   {
     "objectID": "posts/materialsOER/index.html",
     "href": "posts/materialsOER/index.html",
-    "title": "Learning Materials",
+    "title": "Learning and Teaching Materials",
     "section": "",
     "text": "Note\n\n\n\nSome Open-Source class materials I developed.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository."
   },
