@@ -20,5 +20,13 @@ Some works on LLM and third-party app integrations.
 
 # Canvas
 
+## Canvas and Microsoft OneNote
 
+- I used Microsof OneNote mainly for:
+    - Presenting class materials; 
+    - Organizing lecture notes for students and recitation leaders;
+    - Sharing students'written-work assignments;
+    - Providing comments on students'assignments submitted via OneNote.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_PZ7mePzRo?si=4LqHvzXDASFRIkxj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

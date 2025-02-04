@@ -4,7 +4,7 @@
     "href": "posts/techIntegration/index.html",
     "title": "Technology Integration and Learning Platforms",
     "section": "",
-    "text": "Note\n\n\n\nSome works on LLM and third-party app integrations.\n\n\n\nQuarto\n\nThis portfolio is developed by Quarto that is an open-source scientific and technical publishing system. With the basic knowledge of Git, this portfolio is published on GitHub at no cost.\nThis portfolio is a part of my showcases demonstrating my proficiency in using Quarto, a cutting-edge publishing system that enables instructors to create dynamic, interactive learning content. Despite being relatively new, Quarto has rapidly gained popularity among educators and scientists due to its versatility in blending narrative text with executable code, supporting multiple programming languages, and producing various output formats, that are engaging, reproducible educational materials that can be easily updated and adapted to different learning contexts.\nClick HERE to see some examples of executable codes on Quarto.\n\n\n\n\nCanvas"
+    "text": "Note\n\n\n\nSome works on LLM and third-party app integrations."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -75,5 +75,12 @@
     "title": "Welcome",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
+    "href": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
+    "title": "Technology Integration and Learning Platforms",
+    "section": "Canvas and Microsoft OneNote",
+    "text": "Canvas and Microsoft OneNote\n\nI used Microsof OneNote mainly for:\n\nPresenting class materials;\nOrganizing lecture notes for students and recitation leaders;\nSharing students’written-work assignments;\nProviding comments on students’assignments submitted via OneNote."
   }
 ]
