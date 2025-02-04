@@ -5,6 +5,27 @@ title: Technology Integration and Learning Platforms
 Some works on LLM and third-party app integrations.
 :::
 
+# Canvas
+
+## Canvas and MyOpenMath
+
+<!---Spearheaded the integration of MyOpenMath—a free, open-source online mathematics learning platform developed by the WAMAP Consortium—with Canvas LMS to enhance student accessibility and reduce course material costs. Successfully implemented a seamless single sign-on experience that allowed students to complete assignments directly through Canvas while maintaining automatic grade synchronization. This initiative eliminated textbook expenses while providing students with a robust platform for mathematics practice and assessment. Source: Claude
+--->
+Spearheaded the integration of MyOpenMath—a free, open-source online mathematics learning platform enhancing student accessibility and reducing course material costs. Successfully implemented a seamless single sign-on experience that allowed students to complete assignments directly through Canvas while maintaining automatic grade synchronization. This initiative eliminated textbook expenses while providing students with a robust platform for mathematics practice and assessment.
+
+
+## Canvas and Microsoft OneNote
+
+- I used Microsof OneNote mainly for:
+    - Presenting class materials; 
+    - Organizing lecture notes for students and recitation leaders;
+    - Sharing students'written-work assignments;
+    - Providing comments on students'assignments submitted via OneNote.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_PZ7mePzRo?si=4LqHvzXDASFRIkxj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 # Quarto
 
 - This portfolio is developed by [Quarto](https://quarto.org/) that is an open-source scientific and technical publishing system. With the basic knowledge of `Git`, this portfolio is published on [GitHub](https://github.com/skills/introduction-to-github) at no cost.
@@ -18,15 +39,6 @@ Some works on LLM and third-party app integrations.
 [4] https://www.getusefulstuff.com/post/instructional-design-portfolios-how-to-showcase-work-that-matters
 --->
 
-# Canvas
 
-## Canvas and Microsoft OneNote
 
-- I used Microsof OneNote mainly for:
-    - Presenting class materials; 
-    - Organizing lecture notes for students and recitation leaders;
-    - Sharing students'written-work assignments;
-    - Providing comments on students'assignments submitted via OneNote.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V_PZ7mePzRo?si=4LqHvzXDASFRIkxj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
