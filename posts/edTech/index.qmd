@@ -31,5 +31,3 @@ The video demonstrates how I use [Desmos Classroom](https://teacher.desmos.com//
 # Interactive Lesson with Adobe Captivate
 
 Click [HERE](../captivateShowcase/index.qmd) to access the lesson.
-
-# Teaching with Top Hat

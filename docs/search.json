@@ -7,6 +7,20 @@
     "text": "Note\n\n\n\nSome works on LLM and third-party app integrations."
   },
   {
+    "objectID": "posts/techIntegration/index.html#canvas-and-myopenmath",
+    "href": "posts/techIntegration/index.html#canvas-and-myopenmath",
+    "title": "Technology Integration and Learning Platforms",
+    "section": "Canvas and MyOpenMath",
+    "text": "Canvas and MyOpenMath\n\nSpearheaded the integration of MyOpenMath—a free, open-source online mathematics learning platform enhancing student accessibility and reducing course material costs. Successfully implemented a seamless single sign-on experience that allowed students to complete assignments directly through Canvas while maintaining automatic grade synchronization. This initiative eliminated textbook expenses while providing students with a robust platform for mathematics practice and assessment."
+  },
+  {
+    "objectID": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
+    "href": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
+    "title": "Technology Integration and Learning Platforms",
+    "section": "Canvas and Microsoft OneNote",
+    "text": "Canvas and Microsoft OneNote\n\nI used Microsof OneNote mainly for:\n\nPresenting class materials;\nOrganizing lecture notes for students and recitation leaders;\nSharing students’written-work assignments;\nProviding comments on students’assignments submitted via OneNote."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -25,7 +39,7 @@
     "href": "posts/edTech/index.html",
     "title": "Educational Technologies",
     "section": "",
-    "text": "Note\n\n\n\nShowcases of educational technologies in classes.\n\n\n\nTeaching with Geogebra\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe video demonstrates how I use Geogebra while teaching complex subjects and how I made classrooms more interactive.\nClick HERE for my interactive Geogebra activity that I used in the video.\n\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe video demonstrates how I use Desmos Classroom activites to make classrooms more interactive.\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
+    "text": "Note\n\n\n\nShowcases of educational technologies in classes.\n\n\n\nTeaching with Geogebra\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe video demonstrates how I use Geogebra while teaching complex subjects and how I made classrooms more interactive.\nClick HERE for my interactive Geogebra activity that I used in the video.\n\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe video demonstrates how I use Desmos Classroom activites to make classrooms more interactive.\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson."
   },
   {
     "objectID": "posts/captivateShowcase/index.html",
@@ -53,7 +67,7 @@
     "href": "posts/courseDesign/index.html",
     "title": "Course Design and Assessment Design",
     "section": "",
-    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nCourse Design with Transparency in Learning and Teaching\n\nThis syllbus sample and learning outcomes provides clear learning outcomes and expectations for student to be success in class.\nThis rubric sample was developed for graders to make the grading process transparency and consistency.\n\n\n\nPartially-Flipped Class using Class Prep assignments"
+    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nCourse Design with Transparency in Learning and Teaching\n\nThis syllbus sample and learning outcomes provides clear learning outcomes and expectations for student to be success in class.\nThis rubric sample was developed for graders to make the grading process transparency and consistency.\n\n\n\nPartially-Flipped Class using Class Prep assignments\n\nStudents completed class assignments before classes to allow them to learn them at their own pace and focus on key concepts while they used class time that is dedicate to hands-on problem-solving activities that reinforce understanding and application of concepts.\n\n\n\n\n\nFormative Assessment with Top Hat\nRegular assessment to ensures that fundamental concepts are understood, allowing for timely instructional adjustments"
   },
   {
     "objectID": "posts/edTech0/index.html",
@@ -75,19 +89,5 @@
     "title": "Welcome",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
-    "href": "posts/techIntegration/index.html#canvas-and-microsoft-onenote",
-    "title": "Technology Integration and Learning Platforms",
-    "section": "Canvas and Microsoft OneNote",
-    "text": "Canvas and Microsoft OneNote\n\nI used Microsof OneNote mainly for:\n\nPresenting class materials;\nOrganizing lecture notes for students and recitation leaders;\nSharing students’written-work assignments;\nProviding comments on students’assignments submitted via OneNote."
-  },
-  {
-    "objectID": "posts/techIntegration/index.html#canvas-and-myopenmath",
-    "href": "posts/techIntegration/index.html#canvas-and-myopenmath",
-    "title": "Technology Integration and Learning Platforms",
-    "section": "Canvas and MyOpenMath",
-    "text": "Canvas and MyOpenMath\n\nSpearheaded the integration of MyOpenMath—a free, open-source online mathematics learning platform enhancing student accessibility and reducing course material costs. Successfully implemented a seamless single sign-on experience that allowed students to complete assignments directly through Canvas while maintaining automatic grade synchronization. This initiative eliminated textbook expenses while providing students with a robust platform for mathematics practice and assessment."
   }
 ]
