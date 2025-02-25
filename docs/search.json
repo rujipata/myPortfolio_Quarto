@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "earthMapNote.html",
+    "href": "earthMapNote.html",
+    "title": "Notes on Dynamic Earth Map",
+    "section": "",
+    "text": "Note\n\n\n\nThe Dynamic earth map appeared on home page is the output from python execution on Quarto being used to bulid this portfolio. The source code is hiddle on this page but can be found at https://quarto.org/docs/interactive/widgets/jupyter.html"
+  },
+  {
+    "objectID": "posts/captivateShowcase/index.html",
+    "href": "posts/captivateShowcase/index.html",
+    "title": "Interactive Lesson with Adobe Captivate",
+    "section": "",
+    "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "posts/techIntegration/index.html",
     "href": "posts/techIntegration/index.html",
     "title": "Technology Integration and Learning Platforms",
@@ -21,60 +42,11 @@
     "text": "Canvas and Microsoft OneNote\n\nI used Microsof OneNote mainly for:\n\nPresenting class materials;\nOrganizing lecture notes for students and recitation leaders;\nSharing students’written-work assignments;\nProviding comments on students’assignments submitted via OneNote."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "posts/materialsOER/index.html",
-    "href": "posts/materialsOER/index.html",
-    "title": "Learning and Teaching Materials",
-    "section": "",
-    "text": "Note\n\n\n\nSome Open-Source class materials I developed and lesson plans.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository.\n\n\n\nLesson Plan for Recitation Leaders\n\nA sample of lesson plans.\nThe lesson plan demonstrates my comprehensive recitation leadership support. I developed detailed lesson plans for multiple recitation sections of a large F2F lecture course, ensuring consistency and quality across sessions led by graduate and undergraduate students. I also provided extra guidance for new instructors, including in-person support during the first two weeks to address questions from both students and recitation leaders."
-  },
-  {
     "objectID": "posts/edTech/index.html",
     "href": "posts/edTech/index.html",
     "title": "Educational Technologies",
     "section": "",
     "text": "Note\n\n\n\nShowcases of educational technologies in classes.\n\n\n\nTeaching with Geogebra\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe video demonstrates how I use Geogebra while teaching complex subjects and how I made classrooms more interactive.\nClick HERE for my interactive Geogebra activity that I used in the video.\n\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe video demonstrates how I use Desmos Classroom activites to make classrooms more interactive.\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson."
-  },
-  {
-    "objectID": "posts/captivateShowcase/index.html",
-    "href": "posts/captivateShowcase/index.html",
-    "title": "Interactive Lesson with Adobe Captivate",
-    "section": "",
-    "text": "Click HERE to open the lesson in a new tab. You will see an error message (see bleow). Click ‘OK’ to ignore the message. Then, click the play button to start the lesson. The lesson might not play smoothly because it is hosted on GitHub rather than Canvas."
-  },
-  {
-    "objectID": "earthMapNote.html",
-    "href": "earthMapNote.html",
-    "title": "Notes on Dynamic Earth Map",
-    "section": "",
-    "text": "Note\n\n\n\nThe Dynamic earth map appeared on home page is the output from python execution on Quarto being used to bulid this portfolio. The source code is hiddle on this page but can be found at https://quarto.org/docs/interactive/widgets/jupyter.html"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pata’s Portfolio",
-    "section": "",
-    "text": "Source: See note\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLearning and Teaching Materials\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/courseDesign/index.html",
-    "href": "posts/courseDesign/index.html",
-    "title": "Course Design and Assessment Design",
-    "section": "",
-    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nCourse Design with Transparency in Learning and Teaching\n\nThis syllbus sample and learning outcomes provides clear learning outcomes and expectations for student to be success in class.\nThis rubric sample was developed for graders to make the grading process transparency and consistency.\n\n\n\nPartially-Flipped Class using Class Prep assignments\n\nStudents completed class assignments before classes to allow them to learn them at their own pace and focus on key concepts while they used class time that is dedicate to hands-on problem-solving activities that reinforce understanding and application of concepts.\n\n\n\n\n\nFormative Assessment with Top Hat\nRegular assessment to ensures that fundamental concepts are understood, allowing for timely instructional adjustments"
-  },
-  {
-    "objectID": "posts/edTech0/index.html",
-    "href": "posts/edTech0/index.html",
-    "title": "Educational Technologies",
-    "section": "",
-    "text": "Teaching with Geogebra\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
   },
   {
     "objectID": "posts/post-with-code/codingSamples.html",
@@ -84,10 +56,45 @@
     "text": "Intro to Linear Regression\n\n\n\n\n\n\nNote\n\n\n\nSince runningwidgets.interact from ipywidgets relies on a live Jupyter kernel, the slider below does not interact with the slope of the line in this static html page. Run the code on Jupyter Lab to activate the interactive feature.\n\n\n\nimport ipywidgets as widgets\nimport numpy as np\nfrom matplotlib import pyplot as plt\n\n\nx = np.random.uniform(0, 5, size=100)\nepsilon = np.random.normal(size=100)\ny = 2*x + epsilon\nx_values = np.linspace(0, 5, 1000)\n\n@widgets.interact(m=(0.2,5,0.2))\ndef plot_line(m=1):\n    plt.scatter(x,y)\n    plt.plot(x_values, m*x_values, lw=3, color='black')\n\n    plt.ylim(-1.2, 12.2)\n    plt.show();"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/edTech0/index.html",
+    "href": "posts/edTech0/index.html",
+    "title": "Educational Technologies",
+    "section": "",
+    "text": "Teaching with Geogebra\n\n\n\n\nTeaching with Desmos\n\n\n\n\n\n\nInteractive Lesson with Adobe Captivate\nClick HERE to access the lesson.\n\n\nTeaching with Top Hat"
+  },
+  {
+    "objectID": "posts/materialsOER/index.html",
+    "href": "posts/materialsOER/index.html",
+    "title": "Learning and Teaching Materials",
+    "section": "",
+    "text": "Note\n\n\n\nSome Open-Source class materials I developed and lesson plans.\n\n\n\nCalculus Techniques Workbook\n\nThis workbook was created in Fall 2020 under Creative Commons License: CC-BY-NC 4.0. I used it when teaching MATH 1100 from Fall 2020 to Spring 2022 at Utah State University.\nYou may download the workbook in pdf from my GitHub repository at https://github.com/rujipata/calcTechWorkbook.git. Then, download main.pdf.\nYou may also clone my repository above if you want to work on the book with LaTex. Please first read the README file in the repository.\n\n\n\nLesson Plan for Recitation Leaders\n\nA sample of lesson plans.\nThe lesson plan demonstrates my comprehensive recitation leadership support. I developed detailed lesson plans for multiple recitation sections of a large F2F lecture course, ensuring consistency and quality across sessions led by graduate and undergraduate students. I also provided extra guidance for new instructors, including in-person support during the first two weeks to address questions from both students and recitation leaders."
+  },
+  {
+    "objectID": "posts/courseDesign/index.html",
+    "href": "posts/courseDesign/index.html",
+    "title": "Course Design and Assessment Design",
+    "section": "",
+    "text": "Note\n\n\n\nSome innovative evidence-based course designs.\n\n\n\nCourse Design with Transparency in Learning and Teaching\n\nThis syllbus sample and learning outcomes provides clear learning outcomes and expectations for student to be success in class.\nThis rubric sample was developed for graders to make the grading process transparency and consistency.\n\n\n\nPartially-Flipped Class using Class Prep assignments\n\nStudents completed class assignments before classes to allow them to learn them at their own pace and focus on key concepts while they used class time that is dedicate to hands-on problem-solving activities that reinforce understanding and application of concepts.\n\n\n\n\n\nFormative Assessment with Top Hat\nRegular assessment to ensures that fundamental concepts are understood, allowing for timely instructional adjustments"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pata’s Portfolio",
+    "section": "",
+    "text": "Source: See note\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning and Teaching Materials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducational Technologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTechnology Integration and Learning Platforms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourse Design and Assessment Design\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Pata Rujirawat",
+    "section": "",
+    "text": "Profession Summary\nInnovative and dedicated educator with a decade of experience as a faculty lecturer at Utah State University, specializing in curriculum development, instructional design, and leveraging technology to enhance student learning. Expertise in designing accessible, inclusive, and engaging learning experiences for diverse student populations in face-to-face and online environments. Adept at managing complex projects, col- laborating with cross-functional teams, and utilizing cutting-edge educational technologies to drive student success. Passionate about creating equitable educational opportunities and fostering a culture of continuous learning pathway.\n\n\nKey Skills\n\nInstructional Design & Curriculum Development for both introductory mathematics and introductory statistics.\nProject Management & Stakeholder Collaboration.\nUniversal Design for Learning (UDL).\nEvidence-based Teaching (EBT).\nOpen Educational Resources (OER) Development.\nFaculty Training & Professional Development.\nTechnology Integration & Learning Platforms (Canvas, Atomic Assessments, Zoom, GitHub, Overleaf, Microsoft Team, Proctorio, MyOpenMath, Knewton Alta, MyLab, WebAssign, Aleks, StatsPortal/LauchPad).\nEducational Technologies (Markdown, LaTex, Quarto, Python, R, Jupyter Notebook, Git, Desmos, Geogebra, WolframAlpha, Qualtrics Microsoft OneNote, Microsoft PowerPoint, Microsoft Excel, Microsoft OneDrive, Box, iClicker, Top Hat, Camtasia, Adobe Captivate, Adobe Premiere).\n\n\n\nProfessional Experience\nLecturer, Department of Mathematics and Statistics, Utah State University (2012-2023)\n\n\nEducation\n\nMaster of Science in Mathematics and Statistics, Minnesota State University, Mankato (2008).\nMaster of Science in Economics, Utah State University (2002)"
   }
 ]

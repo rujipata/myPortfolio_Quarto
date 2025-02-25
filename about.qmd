@@ -14,10 +14,31 @@ about:
       text: Contact me
       href: mailto:rujirawatpata@gmail.com
 ---
-
+<!---
 <iframe
     width="800"
     height="800"
     src="InstructionalDesigner_resumePata.pdf"
 >
 </iframe>
+--->
+# Profession Summary
+
+Innovative and dedicated educator with a decade of experience as a faculty lecturer at Utah State University, specializing in curriculum development, instructional design, and leveraging technology to enhance student learning. Expertise in designing accessible, inclusive, and engaging learning experiences for diverse student populations in face-to-face and online environments. Adept at managing complex projects, col- laborating with cross-functional teams, and utilizing cutting-edge educational technologies to drive student success. Passionate about creating equitable educational opportunities and fostering a culture of continuous learning pathway.
+
+# Key Skills
+- Instructional Design \& Curriculum Development for both introductory mathematics and introductory statistics.
+- Project Management \& Stakeholder Collaboration.
+- Universal Design for Learning (UDL).
+- Evidence-based Teaching (EBT).
+- Open Educational Resources (OER) Development.
+- Faculty Training \& Professional Development.
+- Technology Integration \& Learning Platforms (Canvas, Atomic Assessments, Zoom, GitHub, Overleaf, Microsoft Team, Proctorio, MyOpenMath, Knewton Alta, MyLab, WebAssign, Aleks, StatsPortal/LauchPad).
+- Educational Technologies (Markdown, LaTex, Quarto, Python, R, Jupyter Notebook, Git, Desmos, Geogebra, WolframAlpha, Qualtrics Microsoft OneNote, Microsoft PowerPoint, Microsoft Excel, Microsoft OneDrive, Box, iClicker, Top Hat, Camtasia, Adobe Captivate, Adobe Premiere).
+
+# Professional Experience
+Lecturer, Department of Mathematics and Statistics, Utah State University (2012-2023)
+
+# Education
+- Master of Science in Mathematics and Statistics, Minnesota State University, Mankato (2008).
+- Master of Science in Economics, Utah State University (2002)
